@@ -21,6 +21,7 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import ThreeJS from "./ThreeJS"
 import Landing from "./Landing"
+import HeadingsOnlyToc from "./HeadingsOnlyToc"
 
 export {
   ArticleTitle,
@@ -46,4 +47,5 @@ export {
   Breadcrumbs,
   ThreeJS,
   Landing,
+  HeadingsOnlyToc,
 }

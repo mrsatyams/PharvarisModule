@@ -17,6 +17,7 @@ function TableOfContents({ fileData, displayClass }: QuartzComponentProps) {
   if (!fileData.toc) {
     return null
   }
+  
 
   return (
     <div class={`toc ${displayClass ?? ""}`}>

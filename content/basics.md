@@ -2,7 +2,7 @@
 title: Bradykinin Physiology
 Module: 1
 ---
-## 01 Introduction to Bradykinin
+# 01 Introduction to Bradykinin
 Welcome to Section 1!
 
 This section provides a comprehensive overview of bradykinin,
@@ -19,7 +19,7 @@ After completing this section, you will be able to:
 
 • Describe the historical discovery and scientific milestones that defined bradykinin research
 
-### 1.1 Historical Discovery and Scientific Milestones
+## 1.1 Historical Discovery and Scientific Milestones
 Bradykinin is a nonapeptide mediator with roles in vascular regulation, inflammation and pain signaling.1-3 Its discovery, mechanism of action, and subsequent clinical importance have influenced both basic and translational medical science.1-4 Bradykinin was discovered serendipitously in 1948 by Maurício Oscar da Rocha e Silva, who was working with colleagues at the Biological Institute of São Paulo, Brazil.2,4 Their research originally aimed to understand the effects of snake venoms, specifically Bothrops jararaca, on vascular shock. 2,5 This investigation led to the identification of a new vasoactive principle responsible for contraction/relaxation of smooth muscle and vascular regulation.2,4 This new substance was distinguished from histamine by its kinetics, and from previously known mediators by its biochemical properties. Consequently, the substance was aptly named “bradykinin” (from the Greek “brady,” meaning slow, and “kinin,” meaning movement).2,4 Further work demonstrated the roles of bradykinin in inflammation1,3,4 [Figure 1].
 
 ![image1](images/module-1_figures_phaseii_V04_figure1.jpg)
@@ -38,13 +38,13 @@ constriction of the smooth muscle in the bronchioles, leading to bronchoconstric
 
 Subsequent studies by Sérgio Ferreira revealed that certain peptides in Bothrops venom, termed bradykininpotentiating factors (BPFs), could inhibit the inactivation of bradykinin in vivo by blocking kinase II/ACE,2,5 ultimately leading to the development of ACE inhibitors as antihypertensive drugs.2,5
 
-### Summary:
+## Summary:
 
 • Discovered in 1948 by Maurício Oscar da Rocha e Silva during studies on Bothrops
 jararaca venom; named for its “slow-moving” smooth-muscle contraction properties.1,2,4
 • Bradykinin research catalyzed a new era in therapeutic pharmacology.2,5
 
-### References
+## References
 1. Stewart JM. Bradykinin antagonists: discovery and development. Peptides. 2004;25:527-532.
 2. Hawgood BJ. Snake venom, bradykinin and the rise of autopharmacology. Toxicon.
 1997;35(11):1569-1580.
@@ -69,9 +69,9 @@ receptor-Gq proteins complexes. Nat Commun. 2022;13(1):714.
 11. Menke JG, Borkowski JA, Bierilo KK, et al. Expression cloning of a human B1 bradykinin
 receptor. J Biol Chem. 1994;269(34):21583-21586.
 
-## 02 Bradykinin Generation
+# 02 Bradykinin Generation
 
-### INTRODUCTION
+## INTRODUCTION
 Welcome to Section 2!
 This section examines the complex process of bradykinin generation
 and regulation, detailing how multiple enzymatic systems and genetic
@@ -92,12 +92,12 @@ variants on bradykinin levels
 • Understand how developmental and species differences
 shape biosynthetic regulation
 
-### 2.1 Overview
+## 2.1 Overview
 This section is detailed but important as it outlines the multiple pathways resulting in bradykinin production, and what
 leads to increased bradykinin production. This matters as these actions can occur in multiple medical conditions that could
 potentially be managed with a bradykinin receptor blocking agent, such as deucrictibant.
 
-#### 2.1.1 Formation of bradykinin
+### 2.1.1 Formation of bradykinin
 Multiple biological pathways, including the kallikrein-kinin system, lead to the formation of bradykinin [Figure 2].
 
 ![image2](images/module-1_figures_phaseii_V04_figure2.jpg)
@@ -131,10 +131,10 @@ Figure 4 provides an overview of the pathways involved in bradykinin formation, 
 Figure 4: Overview of bradykinin-forming cascades, which can be kallikrein-dependent or  kallikrein-independent5
 Arg, arginine; BK, bradykinin; C1INH, C1-esterase inhibitor; cHMWK, cleaved high-molecular-weight kininogen; cLMWK, cleaved low-molecular-weight kininogen; CPN, carboxypeptidase N; FXII, factor XII (Hageman factor); HMWK, high-molecular-weight kininogen; iHMWK, intact high-molecular-weight kininogen;; iLMWK, intact low-molecularweight kininogen; KD, kallidin; LMWK, low-molecular-weight kininogen; MASP1, Mannan-binding lectin serine protease 1; pKal, plasma kallikrein; tPA, tissue plasminogen activator.
 
-### 2.2 Kallikrein-Dependent Bradykinin Generation
+## 2.2 Kallikrein-Dependent Bradykinin Generation
 Bradykinin generation often, but not exclusively, centers on the kallikrein–kinin system, which consists of two distinct but related enzymatic cascades: the pKal system and the tissue kallikrein system.6 These systems differ in their regulation, activation mechanisms, and substrate preferences, and will be discussed below in more detail.6
 
-#### 2.2.1 The Contact System and Plasma Kallikrein Pathway
+### 2.2.1 The Contact System and Plasma Kallikrein Pathway
 The contact system represents the primary mechanism for bradykinin generation in plasma and involves three key proteins:
 factor XII (FXII, also known as Hageman factor), plasma prekallikrein, and HMWK [Figure 5].6,7 The system is activated when FXII encounters negatively charged surfaces, including damaged endothelium, collagen, bacterial lipopolysaccharides, or artificial surfaces such as those of medical devices.6,7
 
@@ -156,13 +156,13 @@ Arg, arginine; BK, bradykinin; C1INH, C1-esterase inhibitor; cHMWK, cleaved high
 Figure 6: Plasma kallikrein cleavage sites in HMWK: Lys-Arg bond at the N-terminus and the Arg-Ser bond at the C-terminus of the bradykinin sequence
 Arg, arginine; HMWK, high-molecular-weight kininogen; Lys, lysine; Ser, serine.
 
-#### 2.2.2 Endothelial Cell-Bound Plasma Kallikrein–Kinin System
+### 2.2.2 Endothelial Cell-Bound Plasma Kallikrein–Kinin System
 The contact system can also function on endothelial cell surfaces through a distinct mechanism. HMWK binds to
 endothelial cells via interaction with cytokeratin 1 and the globular C1q receptor (gC1qR) in a zinc-dependent manner.9 In this cell-bound system, plasma prekallikrein complexed with HMWK can be activated by heat shock protein 90 (Hsp90), resulting in pKal cleavage of HMWK and bradykinin generation, independent of FXIIa.9,10
 Additionally, an alternative endothelial activation pathway involves plasma prekallikrein activation
 by prolylcarboxypeptidase, further diversifying the mechanisms of bradykinin formation.6,7
 
-#### 2.2.3 Tissue Kallikrein System
+### 2.2.3 Tissue Kallikrein System
 The tissue kallikrein system [Figure 7] operates independently of the contact system and involves tissue
 kallikrein, which is produced by various tissues including salivary glands, pancreas, kidney, lung, and heart.11 Unlike
 pKal, tissue kallikrein preferentially cleaves LMWK to generate kallidin (Lys-bradykinin), which aminopeptidase P
@@ -178,10 +178,10 @@ Figure 7: Tissue kallikrein system (A) in context of other pathways;5 (B) in det
 Arg, arginine; BK, bradykinin; C1INH, C1-esterase inhibitor; cHMWK, cleaved high-molecular-weight kininogen; cLMWK, cleaved low-molecular-weight kininogen; CPN, carboxypeptidase N; FXII, factor XII (Hageman factor); HMWK, high-molecular-weight kininogen; iHMWK, intact high-molecular-weight kininogen; iLMWK, intact low-molecularweight
 kininogen; KD, kallidin; KLK1, tissue kallikrein; LMWK, low-molecular-weight kininogen; Lys, lysine; MASP1, Mannan-binding lectin serine protease 1; pKal, plasma kallikrein; tPA, tissue plasminogen activator.
 
-### 2.3 Kallikrein-Independent Bradykinin Generation
+## 2.3 Kallikrein-Independent Bradykinin Generation
 Extensive research has revealed multiple alternative pathways for bradykinin generation that operate independently of the traditional kallikrein systems. These pathways may become particularly relevant during certain inflammatory conditions.
 
-#### 2.3.1 Fibrinolytic System-Mediated Generation
+### 2.3.1 Fibrinolytic System-Mediated Generation
 The fibrinolytic system, primarily through plasmin activity, represents a significant alternative pathway for bradykinin production [Figure 8]. Plasmin, generated from plasminogen by tissue plasminogen activator (tPA) and other activators, can directly cleave both HMWK and LMWK to release bradykinin and kallidin, respectively, independent of FXIIa and pKal activity.13
 
 ![image8](images/module-1_figures_phaseii_V04_figure8.jpg)
@@ -193,7 +193,7 @@ kininogen; KD, kallidin; LMWK, low-molecular-weight kininogen; MASP1, Mannan-bin
 This mechanism can have particular clinical relevance in certain types of AE-BK, such as with plasminogen variants
 (HAE-PLG) and with variants in the KNG1 gene (HAE-KNG) [see Module 1 Section 5 for a detailed overview of variants of interest in AE-BK].
 
-#### 2.3.2 Inflammatory Cell-Derived Protease-Mediated Generation and Lectin Complement System-Mediated Generation
+### 2.3.2 Inflammatory Cell-Derived Protease-Mediated Generation and Lectin Complement System-Mediated Generation
 There are other ways in which bradykinin can be generated. These are based on experimental evidence from in vitro and preclinical animal studies/models. Their relevance/contribution to AE-BK and other bradykinin-mediated diseases remains to be established; they are included here for completeness of bradykinin biology.
 
 During inflammatory responses, various cell types release proteases capable of processing kininogens to generate
@@ -229,10 +229,10 @@ Figure 10: Complement system-mediated generation in context of other pathways5
 Arg, arginine; BK, bradykinin; C1INH, C1-esterase inhibitor; cHMWK, cleaved high-molecular-weight kininogen; cLMWK, cleaved low-molecular-weight kininogen; CPN, carboxypeptidase N; FXII, factor XII (Hageman factor); HMWK, high-molecular-weight kininogen; iHMWK, intact high-molecular-weight kininogen; iLMWK, intact low-molecularweight
 kininogen; KD, kallidin; LMWK, low-molecular-weight kininogen; MASP1, Mannan-binding lectin serine protease 1; pKal, plasma kallikrein; tPA, tissue plasminogen activator.
 
-### 2.4 Regulation and Integration of Bradykinin Generation Pathways
+## 2.4 Regulation and Integration of Bradykinin Generation Pathways
 The multiple pathways for bradykinin generation are tightly regulated by several inhibitor systems, with C1 inhibitor (C1INH) serving as the primary regulator of the contact system [see Module 2 Section 1]. C1INH inhibits both FXIIa and pKal, effectively controlling the pKal-dependant bradykinin generation pathway.6,11,17,18
 
-#### 2.4.1 Developmental Regulation
+### 2.4.1 Developmental Regulation
 The bradykinin biosynthetic pathways undergo significant developmental regulation throughout the human lifespan, with distinct patterns emerging during embryonic development and aging.19,20
 
 | Embryonic and neonatal development | Age-related changes in adults |
@@ -243,7 +243,7 @@ A clear understanding of the various pathways involved in bradykinin generation 
 
 Understanding classic and alternative pathways supports the design of targeted, individualized therapies. This is covered in later modules in this training.
 
-### Summary
+## Summary
 • Overview: Bradykinin is produced through tightly regulated enzymatic systems that ensure vascular and inflammatory balance. While the kallikrein–kinin system is the main source, several alternative routes can independently generate 
 bradykinin under pathological conditions.1,5
 • Kallikrein-Dependent Bradykinin Generation
@@ -270,7 +270,7 @@ bradykinin under pathological conditions.1,5
 • Developmental and Species-Specific Regulation:
 • Expression of contact system components, kininogens, and receptors changes with age and organ maturation.19-25
 
-### References
+## References
 1. Brusco I, et al. Kinins and their B1 and B2 receptors as potential therapeutic targets for pain relief. Life Sciences. 2023;314:121302.
 2. Rex DAB, Vaid N, Deepak K, Dagamajalu S, Prasad TSK. A comprehensive review on current understanding of bradykinin in COVID-19 and inflammatory diseases. Mol Biol Rep. 2022;49(10):9915-9927.
 3. Zini JM, Schmaier AH, Cines DB. Bradykinin regulates the expression of kininogen binding sites on endothelial cells. Blood. 1993;81(11):2936-2946.
@@ -297,8 +297,8 @@ bradykinin under pathological conditions.1,5
 24. Shu Y, Zhao X, Yang C, et al. Circulating prekallikrein levels are correlated with lipid levels in the chinese population: a cross-sectional study. Lipids Health Dis. 2023;22(1):79.
 25. Pérez V, Velarde V, Acuña-Castillo C, et al. Increased kinin levels and decreased responsiveness to kinins during aging. J Gerontol A Biol Sci Med Sci. 2005;60(8):984-990.
 
-## 03 Bradykinin Degradation
-### INTRODUCTION
+# 03 Bradykinin Degradation
+## INTRODUCTION
 Welcome to Section 3!
 This section explores the degradation of bradykinin, emphasizing how precise enzymatic control prevents excessive vascular and inflammatory responses. You will examine the role of angiotensin-converting enzyme (ACE or kininase II) as one of the central regulators of bradykinin catabolism, as well as the supporting functions of carboxypeptidase N, aminopeptidase P, and neutral endopeptidase.
 
@@ -311,10 +311,10 @@ After completing this section, you will be able to:
 • Recognize how ACE inhibition affects vascular and inflammatory physiology
 • Relate impaired degradation to clinical conditions, such as HAE and acquired angioedema due to C1INH deficiency (AAE-C1INH)
 
-### 3.1 Overview
+## 3.1 Overview
 As you previously learned, bradykinin can be synthesized via several cascades [see Module 1 Section 2]. This is carefully balanced in healthy individuals by its degradation (catabolism). Degradation of bradykinin is highly regulated and critical for limiting its biological activity and preventing pathological sequelae, including vasogenic edema and excessive inflammation [see Module 1 Section 5].1 This section provides an overview of bradykinin catabolism with a focus on angiotensin-converting enzyme (ACE, also known as kininase II) and its role in health and disease.
 
-### 3.2 Enzymatic Pathways of Bradykinin Degradation
+## 3.2 Enzymatic Pathways of Bradykinin Degradation
 Bradykinin is metabolized rapidly in plasma and tissues through the action of several peptidases, of which ACE/kininase II is the most prominent. Upon release, bradykinin’s half-life is extremely short – up to approximately 34 seconds under normal conditions – owing to these enzymatic breakdown processes.1 The degradation, or catabolic, process is summarized in Figure 11. 
 
 ![image11](images/module-1_figures_phaseii_V04_figure11.jpg)
@@ -338,7 +338,7 @@ Figure 12 illustrates bradykinin cleavage, with key sites as described above hig
 Figure 12: Bradykinin key cleavage sites during degradation. Primary enzymes are shown in yellow; other enzymes are shown in green10
 ACE, angiotensin-converting enzyme; APN, aminopeptidase N; APP, aminopeptidase P; Arg, arginine; BK, bradykinin; CP, carboxypeptidase; DPP-4, dipeptidyl peptidase-4; ECE, endothelin-converting enzyme; EP, endopeptidase; Gly, glycine; NEP, neutral endopeptidase; Phe, phenylalanine; PREP, prolyl  endopeptidase; Pro, proline; Ser, serine.
 
-### 3.3 Cellular and Tissue Localization of Bradykinin Degradation
+## 3.3 Cellular and Tissue Localization of Bradykinin Degradation
 The pulmonary endothelium is widely recognized as the principal site for bradykinin degradation in vivo,attributed to the high surface expression of ACE on pulmonary capillaries.4 Experimental studies have shown diminished bradykinin-degrading capacity in isolated pulmonary endothelium following ACE inhibition, resulting in elevated plasma bradykinin concentrations and enhanced vasodilatory or permeability responses.11 
 
 Bradykinin degradation also occurs at extravascular sites, including within the kidneys, heart, and local tissue microenvironments.12 In these contexts, both membranebound and soluble forms of peptidases—including ACE, CPN, aminopeptidase P, and NEP—contribute to kinin
@@ -347,12 +347,12 @@ regulation.12
 When ACE is non-functional or blocked, other proteases become more important for cleaving and metabolizing kinins. As described above, these include carboxypeptidase N (CPN), also known as kininase I, an enzyme which converts bradykinin to des-Arg9-bradykinin, an active metabolite that acts on the bradykinin B1 kinin receptor [see Module 1 Section 3.2]. When ACE is inhibited, these alternative pathways play a more significant role in the overall metabolism of kinins, leading to elevated levels of
 kinins and their active metabolites; this contributes to the therapeutic effects (and some side effects like dry cough and angioedema) of ACE inhibitors.13,14 For these reasons, ACEi’s are not administered to patients with AE-BK.14
 
-### 3.4 Functional Implications: ACE Inhibition in Disease Context
+## 3.4 Functional Implications: ACE Inhibition in Disease Context
 ACE’s role in bradykinin metabolism has major clinical implications. Pharmacologic inhibition of ACE (by ACE inhibitors, which are frequently used in hypertension and heart failure) simultaneously impede the generation of angiotensin II and the degradation of bradykinin.15,16
 
 In bradykinin-meditated angioedema (AE-BK), where bradykinin generation is dysregulated [see Module 2 Section 1], the balance between synthesis and degradation becomes critical.16,17 Impaired bradykinin clearance by ACE, especially in the context of ACE inhibitor therapy, can tip the pathway toward tissue swelling and potentially life-threatening edema.16,17
 
-### 3.5 Pathway Products and Analytical Considerations
+## 3.5 Pathway Products and Analytical Considerations
 Bradykinin degradation yields a spectrum of peptide fragments, many of which have little or no activity at kinin receptors and are rapidly further cleaved to dipeptides and single amino acids.18
 
 Key products of kinin (primarily bradykinin and kallidin) metabolism include:
@@ -366,7 +366,7 @@ Key products of kinin (primarily bradykinin and kallidin) metabolism include:
 The instability of bradykinin and its metabolites in biological fluids have made laboratory measurement challenging, thus requiring specialized techniques (e.g., high-performance liquid chromatography (HPLC), immunoassays) for accurate quantification.1,21 
 See Module 3, Section 2.2.1 for information on the Pharvaris biomarker in AE-BK.
 
-### 03 Summary
+## 03 Summary
 • Overview:
 • Bradykinin degradation is a tightly regulated process that limits the peptide’s biological activity and prevents pathologic effects like edema and inflammation. The main enzyme responsible is angiotensin-converting
 enzyme (ACE or kininase II), supported by several secondary peptidases.1,3-6
@@ -385,7 +385,7 @@ enzyme (ACE or kininase II), supported by several secondary peptidases.1,3-6
 • Quantification of bradykinin and kinin peptides may provide diagnostic insights into disorders involving kinin imbalance.1,18,21
 • See Module 3, Section 2.2.1 for information on the Pharvaris biomarker in AE-BK.
 
-### References
+## References
 1. Marceau F, Rivard GE, Gauthier JM, et al. Measurement of Bradykinin Formation and Degradation in Blood Plasma: Relevance for Acquired Angioedema Associated With Angiotensin Converting Enzyme Inhibition and for Hereditary Angioedema Due to Factor XII or Plasminogen Gene Variants. Front Med (Lausanne). 2020;7:358.
 2. Recke A. Status quo and future developments in the diagnosis and treatment of hereditary angioedema. J Dtsch Dermatol Ges. 2025;23(12):1512-1525.
 3. Riordan JF. Angiotensin-I-converting enzyme and its relatives. Genome Biol. 2003;4(8):225.
@@ -408,8 +408,8 @@ enzyme (ACE or kininase II), supported by several secondary peptidases.1,3-6
 20. Kakoki M and Smithies O. The kallikrein–kinin system in health and in diseases of the kidney. Kidney Int. 2009;75(10):1019–1030.
 21. Nussberger J, Cugno M, Amstutz C, Cicardi M, Pellacani A, Agostoni A. Plasma bradykinin in angio-oedema. Lancet. 1998;351(9117):1693-1697.
 
-## 04 Bradykinin Receptors
-### INTRODUCTION
+# 04 Bradykinin Receptors
+## INTRODUCTION
 Welcome to Section 4!
 This section focuses on bradykinin receptors (bradykinin B1 and bradykinin B2 receptors) and their roles in regulating vascular function, inflammation, pain, and fluid balance. You will explore receptor structure, expression patterns, ligand specificity, and signaling mechanisms, as well as how these molecular systems translate into physiological effects such as vasodilation, vascular permeability, and natriuresis.
 
@@ -423,7 +423,7 @@ After completing this section, you will be able to:
 acute responses
 • Relate receptor biology to clinical outcomes and therapeutic interventions
 
-### 4.1 Overview
+## 4.1 Overview
 Bradykinin B1 and B2 receptors are G protein-coupled receptors (GPCR) activated by bradykinin, kallidin and their
 active metabolites.1-3 Kinins, bradykinin and kallidin are vasoactive peptides that signal through these receptors
 [Table 1].4,5 The bradykinin B2 receptor is constitutively expressed and mediates many physiological responses,
@@ -449,15 +449,15 @@ As mentioned, bradykinin B1 and B2 receptors are both part of the G protein-coup
 
 Table 1: Key characteristics of bradykinin B1 and B2 receptors
 
-### Bradykinin Receptors (bradykinin B1 receptor, bradykinin B2 receptor)
-#### 4.2.1 Molecular Structure and Chromosomal Organization
+## 4.2 Bradykinin Receptors (bradykinin B1 receptor, bradykinin B2 receptor)
+### 4.2.1 Molecular Structure and Chromosomal Organization
 Kinins (including bradykinin, kallidin, des-Arg9-bradykinin, and des-Arg10-kallidin) mediate their effect mainly through bradykinin B1 and bradykinin B2 receptors, encoded on adjacent loci of human chromosome 14—BDKRB1 and BDKRB2— sharing sequence identity of 32%.3,7 Bradykinin 2 receptor is constitutively expressed; bradykinin B1 receptor is inducible during inflammation and tissue injury.3,7
 
-#### 4.2.2 Tissue-Specific Receptor and Functional Significance
+### 4.2.2 Tissue-Specific Receptor and Functional Significance
 Genetic variations in BDKRB1 and BDKRB2 exist for bradykinin B1 and B2 receptor, however, their functional implications are not well understood. Bradykinin B2 receptor promoter variants may affect transcriptional regulation and contribute to individual differences in bradykinin sensitivity.19,20
 The bradykinin B1 receptor gene demonstrates functional significance in inflammatory responses, where alternative promoter usage creates tissue-specific expression patterns with enhanced inducibility following inflammatory stimuli.15,21 Receptor heterodimerization represents an important diversification mechanism, with in vitro studies suggesting that bradykinin B1 receptor and B2 receptor form heterodimeric complexes showing enhanced signaling capacity.22 Bradykinin B2 receptor also forms functional complexes in vitro with angiotensin-converting enzyme (ACE) at the plasma membrane, creating integrated regulatory units coordinating kinin and  renin-angiotensin system signaling.23 In vitro studies suggest further that the spontaneous formation of bradykinin B1 receptor-bradykinin B2 receptor heterodimers involves proteolytic mechanisms contributing to the adaptive transition from acute bradykinin B2 receptor-mediated to chronic bradykinin B1 receptor-mediated inflammatory signaling.22 Whether these complexes exist in vivo and what their is biological function, if any, is not known.
 
-#### 4.2.3 Ligand Specificity and Binding Characteristics
+### 4.2.3 Ligand Specificity and Binding Characteristics
 Recent cryo-electron microscopy (cryo-EM) structural studies have elucidated the binding pocket and signaling helices for bradykinin and kallidin at the bradykinin B2 receptor, revealing molecular mechanisms underlying receptor activation and G protein coupling; this is relevant as it offers new insights for future drug discovery.2
 The bradykinin B2 receptor [Figure 13] is activated by intact kinins (bradykinin, kallidin, and Met-Lys-bradykinin [see Module 1, Section 6.2.4]), with high-affinity binding dependent on the presence of a C-terminal arginine residue.4 Bradykinin exhibits nanomolar binding affinity (Kd ~1-2 nM) for human bradykinin B2 receptor, while kallidin demonstrates equipotent activity.2,15 The bradykinin B2 receptor demonstrates high specificity for the intact nonapeptide structure, with even minor modifications significantly reducing binding affinity.15
 
@@ -475,14 +475,14 @@ Bradykinin B1 and B2 receptor binding affinities for kinin peptides are shown in
 Figure 14: Bradykinin B1 and B2 receptor affinities for kinin peptides24
 B1, bradykinin receptor type 1; B2, bradykinin receptor type 2; BK, bradykinin; KD, kallidin; nM, nanomole.
 
-#### Figure 14: Bradykinin B1 and B2 receptor affinities for kinin peptides24
+### 4.2.4: Receptor Expression and Temporal Patterns
 | Bradykinin B1 receptor | Bradykinin B2 receptor |
 | ---------------------- | ---------------------- |
 | Bradykinin B1 receptor exhibits an expression profile characterized by minimal or absent expression in healthy tissues. The bradykinin B1 receptor therefore follows an inducible expression pattern, with peak expression typically occurring 6-24 hours post-stimulus following exposure to inflammatory stimuli, such as IL-1β, TNF-α, IFN-γ, and bacterial  lipopolysaccharide.11-13 Expression can persist for days to weeks. | Bradykinin B2 receptor demonstrates constitutive, widespread expression across multiple tissue systems and from multiple signals under physiological conditions.5 High expression levels are found in vascular endothelium throughout the cardiovascular system, where the receptor maintains baseline vascular tone and mediates acute vasodilatory responses.25 Significant bradykinin B2 receptor expression occurs in vascular smooth muscle cells, renal tubular and glomerular cells, respiratory and gastrointestinal epithelium, and various neuronal populations.5,26 The receptor is also present in immune cells, including monocytes and tissue-resident
 macrophages, enabling rapid inflammatory responses.16 |
 | In chronic pathological states including diabetes, hypertension, and chronic inflammatory diseases, bradykinin B1 receptor expression becomes constitutively elevated and it is resistant to desensitization,10,18 transforming from an acute response marker to a driver of persistent pathophysiology.11-13 | Bradykinin B2 receptor signaling shows rapid onset with peak responses within 1-5 minutes, followed by efficient desensitization and receptor internalization.10,17 |
 
-#### 4.2.5 Bradykinin B2 Receptor Expression in Systems outside the Vascular System
+### 4.2.5 Bradykinin B2 Receptor Expression in Systems outside the Vascular System
 The bradykinin B2 receptor is constitutively and widely expressed throughout the body under normal physiological conditions. It is responsible for most of the acute effects of bradykinin, such as vasodilation, increased vascular
 permeability, and pain sensation (Table 2).
 | SYSTEM | Expression and Function |
@@ -498,7 +498,7 @@ permeability, and pain sensation (Table 2).
 
 Table 2: Expression and function of bradykinin B2 receptor according to system
 
-#### 4.3. Cellular Signaling Pathways
+## 4.3. Cellular Signaling Pathways
 The bradykinin B1 and B2 receptors activate distinct yet overlapping cellular signaling pathways (Figure 15).
 
 ![image15](images/module-1_figures_phaseii_V04_figure15.jpg)
@@ -517,7 +517,7 @@ Both receptors stimulate phospholipase A2, liberating arachidonic acid for eicos
 IP3 and DAG
 IP3 (inositol trisphosphate) and DAG (diacylglycerol) are intracellular “second messenger” molecules that transmit signals within a cell after a “first messenger” (e.g., hormone) binds to a cell surface receptor.44
 
-### Summary
+## Summary
 • Overview:
 • Bradykinin B1 and B2 receptors are GPCRs activated by bradykinin, kallidin and their active metabolites.1-3
 • Expression patterns and roles
@@ -540,7 +540,7 @@ IP3 (inositol trisphosphate) and DAG (diacylglycerol) are intracellular “secon
 • Bradykinin Receptor Signaling
 • Bradykinin receptors activate Gq/11–PLC signaling, raising intracellular calcium and PKC activity, while inducing NO and PGI release that drive vasodilation.10,43 
 
-### References
+## References
 1. Prado GN, Taylor L, Zhou X, et al. Mechanisms regulating the expression, self-maintenance, and signaling-function of the bradykinin B2 and B1 receptors. J Cell Physiol. 2002;193(3):275-286.
 2. Shen J, Zhang D, Fu Y, et al. Cryo-EM structures of human bradykinin receptor-Gq proteins complexes. Nat Commun. 2022;13(1):714.
 3. Menke JG, Borkowski JA, Bierilo KK, et al. Expression cloning of a human B1 bradykinin receptor. J Biol Chem. 1994;269(34):21583-21586.
@@ -588,8 +588,8 @@ IP3 (inositol trisphosphate) and DAG (diacylglycerol) are intracellular “secon
 45. Campbell WB, Fleming I. Epoxyeicosatrienoic acids and endothelium-dependent responses. Pflugers Arch. 2010;459(6):881-895.
 46. Leeb-Lundberg LM. Bradykinin specificity and signaling at GPR100 and B2 kinin receptors. B J Pharmacol. 2004;143:931–932.
 
-## 05 Bradykinin’s Physiological Roles
-### INTRODUCTION 
+# 05 Bradykinin’s Physiological Roles
+## INTRODUCTION 
 Welcome to Section 5!
 This section focuses on the physiological roles of bradykinin, describing how the peptide acts as a key mediator linking vascular permeability,
 immune activation, and nociceptive signaling. Acting through bradykinin B2 receptors and bradykinin B1 receptors [see Module 1 Section 4], bradykinin plays a crucial role in acute inflammatory responses and contributes to pain sensitization across peripheral and central pathways.
@@ -604,7 +604,7 @@ After completing this section, you will be able to:
 • Recognize interactions between bradykinin, the complement system, and the coagulation system to understand its role in the development of inflammation and pain
 • Relate bradykinin-mediated mechanisms to clinical conditions, such as HAE
 
-### 5.1 Overview
+## 5.1 Overview
 Bradykinin is a potent, short-lived vasoactive peptide that plays important roles in the regulation of physiological processes and is considered a key regulator of vascular tone, acute inflammation, bronchoconstriction, and pain, primarily via bradykinin B2 receptors, which are constitutively expressed on endothelial cells, smooth muscle cells, and various immune cells.1-6 Bradykinin serves as a classic example of a protein autacoid.3
 
 What is an autacoid?
@@ -623,7 +623,7 @@ Understanding the physiological function of bradykinin is essential because in c
 Figure 16. Cartoon of various biological actions of bradykinin
 ICAM-1, Intercellular Adhesion Molecule-1; IL, interleukin; NF, nuclear factor; VCAM-1, Vascular Cell Adhesion Molecule-1.
 
-### 5.2 Bradykinin as a Trigger for AE-BK and Its Effect on Endothelial Permeability and Vasculature
+## 5.2 Bradykinin as a Trigger for AE-BK and Its Effect on Endothelial Permeability and Vasculature
 Bradykinin serves as a key mediator of angioedema by increasing endothelial permeability and prostacyclin synthesis. 
 By binding to bradykinin B2 receptors on endothelial cells, bradykinin triggers intracellular signaling cascades, including calcium release. These cascades lead to the production of nitric oxide (NO) and prostacyclin, as well as the activation of phospholipase A₂ and protein kinase C, ultimately resulting in smooth muscle relaxation, decreased vascular tone, and vasodilation [Figure 17].1,3,10 
 Bradykinin also increases the cellular components of inflammation, including the release of pain-inducing mediators, such as prostaglandins and substance P. These effects contribute to the classical inflammatory symptoms of redness, swelling, heat, and pain. Additionally, bradykinin stimulates the production of pro-inflammatory cytokines and chemokines.1-6 These effects, however, are considered secondary in terms of clinical relevance to the vasodilation, edema, and swelling described above, which can be life-threatening.11
@@ -651,14 +651,14 @@ Prostacyclin release activates cAMP-mediated signaling for vasodilation, and inh
 Adherens junctions
 Adherens junctions play an important role in regulating vascular homeostasis and limiting paracellular transport. Adherens junctions control endothelial permeability and maintain vascular integrity via vascular-endothelial cadherin (VE-cadherin) molecules.16
 
-### Bradykinin Effect on Cytokines
+## 5.3 Bradykinin Effect on Cytokines
 Bradykinin signaling exerts significant influence on cytokine production, contributing to the amplification of inflammatory responses. It binds to its bradykinin B2 receptors on various cell types, including endothelial cells, smooth muscle cells, macrophages, and fibroblasts. This activates signaling pathways, such as NF-κB and MAPK. This activation stimulates the synthesis and release of pro-inflammatory cytokines, including interleukin-1β (IL-1β), interleukin-6 (IL-6), and tumor necrosis factor-alpha (TNF-α). The cytokines further propagate inflammation and recruit immune cells to the affected tissue.13,18,21-26
 
 NF-κB and MAPK
 NF-κB (Nuclear Factor kappa-light-chain-enhancer of activated B cells) is a family of proteins that act as a transcription factor to control the expression of genes involved in cell growth, survival, inflammation, and immune response. In its inactive state, NF-κB is held in the cytoplasm by inhibitors called IκB proteins. When a cell receives an external signal, IκB is degraded, and the released NF-κB moves to the nucleus to activate the transcription of target genes.27
 MAPK (Mitogen-Activated Protein Kinase) is a family of enzymes that are critical for relaying signals from the cell’s exterior to its interior. This signaling pathway regulates a wide range of cellular processes, including cell division, growth, survival, and differentiation, and is activated by external stimuli like hormones, stress, and cytokines. Because of their central role, dysregulation of the MAPK pathway is linked to many diseases.28
 
-### 5.4 Organ-Specific Permeability: Lung and Blood–Brain Barrier
+## 5.4 Organ-Specific Permeability: Lung and Blood–Brain Barrier
 Within the respiratory system, the bradykinin B2 receptor is expressed in bronchial epithelium, alveolar cells, and nasal mucosa, contributing to allergic responses.29 In the lung, bradykinin-induced permeability can/may contribute to lifethreatening edema when coupled with intense cytokine and complement activity, as in the case of severe COVID-19 disease.30
 At the blood-brain barrier (BBB), bradykinin increases permeability via its B2 receptor. The mechanism involves calcium signaling, PLA2, arachidonic acid metabolites, and reactive oxygen species (ROS). Inducible bradykinin B1 receptor is activated under ischemia/inflammation, further augmenting tight junction disruption and cytokine production, worsening edema and neuroinflammation.13,31,32 These principles extend to stroke, where bradykinin B2 receptor antagonism reduces permeability and neutrophil recruitment, illustrating that inhibition of kinin-induced endothelial modulation can be protective when overactivation of bradykinin signaling drives pathology.33 In the cerebral vascular beds, bradykinin drives vasodilation and permeability via NO and endothelium-derived hyperpolarizing factor, EDHF, impacting perfusion and risk of edema (e.g.,in stroke).14
 
@@ -672,7 +672,7 @@ Figure 18: Bradykinin increases with ACE inhibition, driving hyperpermeability.3
 System-level studies and mechanistic reviews support a model in which bradykinin acts as a putative amplifier of cytokine production, barrier leak, and leukocyte recruitment, aligning with clinical observations of diffuse alveolar damage and vascular inflammation in severe cases.30 On this basis, therapies that target endothelial permeability, complement, or kallikrein–kinin system activation have been proposed as adjuncts to conventional antiviral and anti-inflammatory regimens in fulminant disease.37-39
 ACE, angiotensin-converting enzyme; Ang(1-9), angiotensin-(1-9); BK, bradykinin; DABK, des-Arg⁹-bradykinin.
 
-### Peripheral Nociception, Central Sensitization and Bradykinin B1 Receptor Pathways
+## 5.5 Peripheral Nociception, Central Sensitization and Bradykinin B1 Receptor Pathways
 Other physiological roles of bradykinin include:
 |  |  |
 | ---- | ---- |
@@ -688,7 +688,7 @@ Peripheral nociception is the initial process where specialized nerve endings ca
 Figure 19: Crosstalk among chemokine receptors, bradykinin, and transient receptor potential channels (TRP).62
 BK, bradykinin; BK-R, bradykinin receptor; CC/CXCR, chemokine receptor; PLC, phospholipase C; TRP, transient receptor potential channel.
 
-### Summary
+## Summary
 • Overview: Bradykinin is a potent mediator of vasodilation, vascular permeability, cellular inflammation and pain, that acts primarily through bradykinin B2 receptors.1,3,10
 • Endothelial effects:
 • Changes vascular tone and vasodilation: This occurs via binding to B2 receptors on endothelial cells triggering calcium-dependent pathways that ultimately produce NO and prostacyclin, and via bradykinin-induced cascade activation leading to cytoskeletal reorganization.10,12-15
@@ -709,7 +709,7 @@ BK, bradykinin; BK-R, bradykinin receptor; CC/CXCR, chemokine receptor; PLC, pho
 • Bradykinin B2 receptor mediates acute facilitation, while bradykinin B1 receptor supports sustained sensitization via non-desensitizing signaling and cytokine reinforcement.18,56-61
 • Elevated bradykinin B1 receptor expression in chronic pain, fibrosis, and neuroinflammation makes it a promising therapeutic target.60,61
 
-### References
+## References
 1. Stewart JM. Bradykinin antagonists: discovery and development. Peptides. 2004;25:527-532.
 2. Hawgood BJ. Snake venom, bradykinin and the rise of autopharmacology. Toxicon. 1997;35(11):1569-1580.
 3. Golias Ch, Charalabopoulos A, Stagikas D, et al. The kinin system--bradykinin: biological effects and clinical implications. Multiple role of the kinin system--bradykinin. Hippokratia.2007;11(3):124-128.
@@ -774,8 +774,8 @@ BK, bradykinin; BK-R, bradykinin receptor; CC/CXCR, chemokine receptor; PLC, pho
 62. White FA, Jung H, Miller RJ. Chemokines and the pathophysiology of neuropathic pain. Proc Natl Acad Sci USA. 2007;104(51):20151-8.
 63. Dubin AE, Patapoutian A. Nociceptors: the sensors of the pain pathway. J Clin Invest. 2010 Nov 1;120(11):3760–3772.
 
-## 06 Bradykinin Dysregulation and Pathological Conditions 
-### INTRODUTION
+# 06 Bradykinin Dysregulation and Pathological Conditions 
+## INTRODUTION
 Welcome to Section 6!
 This section examines the pathological consequences of bradykinin system dysregulation across vascular, inflammatory, and other
 systemic disease states. You will explore how excessive bradykinin generation, impaired degradation, or heightened tissue sensitivity contribute to disorders, such as hereditary and acquired angioedema due to C1 inhibitor deficiency. Other diseases where this might play a role [included for a fuller picture] are ischemia–reperfusion injury, pulmonary inflammation, hypertension, and diabetes. The section also highlights the complex interactions between the contact, complement,
@@ -787,16 +787,16 @@ After completing this section, you will be able to:
 • Identify organ-specific effects of bradykinin dysregulation in the brain, lung, kidney, and vasculature
 • Recognize diagnostic and therapeutic approaches targeting the bradykinin pathway
 
-### 6.1 Core Dysregulation Mechanisms
-#### 6.1.1 Bradykinin Dysfunction in Disease
+## 6.1 Core Dysregulation Mechanisms
+### 6.1.1 Bradykinin Dysfunction in Disease
 Bradykinin dysregulation underlies several acute and chronic disease phenotypes by amplifying vascular permeability, altering vascular tone, and sensitizing nociceptive and immune pathways via the contact, complement, and kallikrein–kinin systems. The most definitive examples are bradykinin-mediated angioedema (hereditary angioedema [HAE], acquired angioedema due to C1 inhibitor deficiency [AAE-C1INH], and drug-induced angioedema [AE-DI]) . Excess or incorrect signaling may also contribute to lung injury, ischemia–reperfusion damage, microvascular dysfunction in hypertension, and barrier failure in infections, such as severe COVID-19.1-3 
 
-#### 6.1.2 Processes Resulting in Excess Bradykinin
+### 6.1.2 Processes Resulting in Excess Bradykinin
 Excess bradykinin generation occurs when the plasma contact system is inadequately restrained (e.g., low or dysfunctional C1INH), when fibrinolytic pathways result in cleavage of kininogens, or when complement–contact cross-activation lowers the threshold for edema formation.3 
 Pathological persistence of bradykinin signaling also emerges when metabolic clearance is reduced (e.g.,angiotensin-converting enzyme [ACE] inhibitor exposure or low aminopeptidase P), causing accumulation of intact des-Arg9-bradykinin and bradykinin, which continue to stimulate bradykinin B2 receptor and inducible bradykinin B1 receptors, respectively.1 
 In barrier-forming endothelia (skin, gut, airway, lung, brain) and resistance vessels, inflammatory cytokines, and junctional reprogramming can magnify the permeability response to a given bradykinin exposure.1
 
-#### 6.2 Genetic Variants Leading to Excessive Bradykinin Production
+### 6.2 Genetic Variants Leading to Excessive Bradykinin Production
 Several genetic variants affect various components of the bradykinin synthesis and degradation pathways and can result in excessive bradykinin accumulation, demonstrating the complexity and interconnected nature of kinin regulation. 
 Why do variants matter when discussing deucrictibant? These variants demonstrate how genetic alterations can alter bradykinin generation and accumulation. This provides the rationale for bradykinin B2 receptor antagonism with deucrictibant.
 
@@ -819,42 +819,42 @@ Figure 21: Molecular mechanisms involved in pathophysiology of different types o
 AAE-C1INH, acquired angioedema due to C1INH deficiency; BK, bradykinin; cHMWK, cleaved high-molecular-weight kininogen; C1INH, C1 inhibitor; CPN, carboxypeptidase N; FXII(a), Factor XII(a); HAE-ANGST, HAE due to angiopoietin 1 mutation; HAE-CPN, hereditary angioedema with carboxypeptidase N deficiency; HAE-HSST, HAE due to heparan sulfate glucosamine 3-O-sulfotransferase 6 mutation; HAE-KNG1, HAE due to kininogen-1 mutation; HAE-PLG, HAE due to plasminogen mutation; HMWK, high-molecular-weight kininogen; KNG1, kininogen-1; LMWK, low-molecular-weight kininogen; MYOF, myoferlin mutation; pre-PK, pre-prolylcarboxypeptidase; PR3, proteinase 3; VEGF, vascular endothelial growth factor; VEGFR, vascular endothelial growth factor receptor.
 
 Bradykinin-mediated
-#### 6.2.1 SERPING1 Gene Variant
+### 6.2.1 SERPING1 Gene Variant
 Variations in the SERPING1 gene can result in HAE with C1 inhibitor (C1INH) deficiency (HAE-C1INH) (Type 1 and Type 2) [see Module 2 for full explanation of Type 1 and 2]. A lack of functional C1INH, the main negative regulator of the kallikrein-kinin system, leads to excessive bradykinin production.2,6,7
 More than 893 different SERPING1 mutations have been identified across 1,494 pedigrees, including large deletions (8.3%), small deletions/insertions (36.2%), missense variants (36.2%), splice site variants (14.3%), and nonsense mutations that create premature termination codons.7,8 Deletion mutations, particularly those affecting exon 4, represent the most severe mutations with the lowest C1INH functional levels (typically 5% of normal).8 Large deletions and frameshift mutations lead to complete absence of protein synthesis, while nonsense mutations create truncated proteins lacking the essential reactive center loop required for protease inhibition.8
 
-#### 6.2.2 FXII Gene Variants
+### 6.2.2 FXII Gene Variants
 Gain-of-function variants in coagulation factor XII (FXII) exemplify a bradykinin overproduction mechanism, seen in hereditary angioedema with normal C1 inhibitor (HAE-nC1INH). These variants introduce a new cleavage site on FXII that results in a short FXII peptide. This short  FXII can be activated by kallikrein 15 times more efficiently than the usual length FXII protein. This means that activation of FXII and the plasma kallikrein-kinin system are amplified, resulting in increased bradykinin generation. Some variants also affect glycosylation patterns, increasing spontaneous activation of FXII. The estrogen dependency in HAE-FXII may result from estrogen-induced changes (increase) in FXII expression patterns.4,9-12
 
-#### 6.2.3 PLG Gene Variant
+### 6.2.3 PLG Gene Variant
 Genetic variant in the PLG gene alters substrate specificity and catalytic activity of plasminogen’s active product, plasmin, seen in HAE-nC1INH. The mutant plasmin demonstrates an enhanced ability to directly cleave kininogens,11-13 meaning it can directly cleave both HMWK and LMWK to release bradykinin, bypassing the traditional FXII and kallikrein-kinin system completely. The catalytic efficiency of this variant plasmin for kininogen cleavage is comparable to that of pKal, explaining the clinical phenotype observed in affected patients.12,13
 
-### 6.2.4 *KNG1* Gene Variants
+## 6.2.4 *KNG1* Gene Variants
 Variants in the *KNG1* gene, which encodes both HMWK (the primary substrate for bradykinin production) and LMWK, can significantly alter bradykinin production patterns, and are **seen in HAE-nC1INH.**<sup>4,9,10,13,14</sup> This mutation allows plasmin to cleave HMWK and LMWK more effectively, bypassing the traditional kallikrein-kinin system.<sup>13</sup>
 One of the *KNG1* mutations was shown to result in increased HMWK and LMWK susceptibility to cleavage by plasmin, resulting in release of kallidin, independently of FXIIa and pKal.<sup>13,15</sup> The other *KNG1* mutation facilitates binding of HMWK to FXII and plasma prekallikrein and it appears to be associated with recurrent angioedema in people who are also heterozygous for the ACE genetic variant.<sup>16</sup> This *KNG1* variant could also cause HAE independently of pKal.<sup>9,10,14,17</sup> 
 Neutrophil-derived proteinase 3 (PR3) can induce kallikreinindependent release of bradykinin. This may be because the variant HMWK can be cleaved more readily than wild-type HMWK. PR3 cleaves HMWK to Met-Lys-bradykinin-Ser-Ser, which can be further processed to bradykinin, thus increasing bradykinin independently of kallikrein.<sup>18,19</sup>
 
-#### 6.2.5 *HS3ST6 (HSST)* Gene Variant
+### 6.2.5 *HS3ST6 (HSST)* Gene Variant
 A variant in the heparan sulfate 3-O-sulfotransferase 6 *(HS3ST6)* gene – an enzyme responsible for specific sulfation modifications of heparan sulfate chains – also represent a mechanism for excessive bradykinin production, and has been **associated with HAE-nC1INH,** though its mechanism remains unproven.<sup>12,20</sup>
 In normal conditions, heparan sulfate proteoglycans facilitates HMWK interaction with heparan sulfates (HS) and HMWK internalization via endocytosis. However, the variant may result in reduced endocytosis of HMWK and increased HMWK interaction with pKal on the endothelial cell surface. This leads to an increased cleavage of HMWK and bradykinin generation.<sup>14,1,20,21</sup>
 
 **Endothelial-barrier dysregulation with indirect bradykinin effects**
 
-#### 6.2.6 *MYOF* Gene Variant
+### 6.2.6 *MYOF* Gene Variant
 Myoferlin is a membrane repair protein involved in cellular membrane dynamics and vesicle fusion processes. A variant in the myoferlin *(MYOF)* gene is associated with the vascular endothelium angioedema endotype of **HAEnC1INH**.<sup>12</sup> Current evidence suggests that mutant myoferlin results in an overwhelming activation of VEGF-mediated signaling and, as a result, increased vascular permeability and vascular leakage. This dysfunction may compromise endothelial barrier function and potentially affect regulation of bradykinin signaling at the bradykinin B2 receptor level.<sup>10,12,22</sup> The DANCE classification [see Module 1, Section 6] notes that bradykinin’s role seems indirect or conditional, rather than due to increased production, as in classicalcontact-system HAE.<sup>10</sup>
 
-#### 6.2.7 *ANGPT1* Gene Variants
+### 6.2.7 *ANGPT1* Gene Variants
 *ANGPT1* (angiopoietin-1) contributes to the endothelial barrier function by inhibiting permeability-enhancing factors, such as VEGF and bradykinin. Non-mutant *ANGPT1* inhibits bradykinin effects on cytoskeletal rearrangements and VE-cadherin localization on the endothelial cell, and has been **associated with HAE-nC1INH**. However, the HAE ANGPT1 variant fails to inhibit the effects of bradykinin, and VEGF effects on the cytoskeletal arrangement and VEcadherin localization.<sup>23<sup>
 
-#### 6.2.8 *CPN1* Gene Variants and Bradykinin Accumulation
+### 6.2.8 *CPN1* Gene Variants and Bradykinin Accumulation
 Carboxypeptidase N (CPN) deficiency, resulting from variants in the *CPN1* gene encoding the catalytic subunit, represents an important mechanism for bradykinin accumulation through impaired degradation rather than increased synthesis, and have been **associated with HAEnC1INH**.<sup>10,14,24</sup> However, CPN deficiency could also indirectly affect bradykinin synthesis through its role in plasminogen activation regulation.<sup>24</sup>
 CPN normally removes C-terminal lysine residues from cell surface proteins that serve as plasminogen receptors. When CPN activity is reduced, plasminogen activation can increase up to 1,000-fold, leading to enhanced plasmin activity and subsequently increased kallikrein–kinin system activation.<sup>24</sup> This creates a dual mechanism whereby CPN deficiency both reduces bradykinin degradation and enhances its production.<sup>24</sup>
 
-#### 6.2.9 *DAB21P* Gene Variants
+### 6.2.9 *DAB21P* Gene Variants
 Loss-of-function variants in disabled homolog-2–interacting protein *(DAB2IP)* **have been reported in HAE-nC1INH** and are described as impairing the endothelial VEGF/VEGFR2 ligand system. This places DAB2IP-related disease within the vascular-endothelial dysfunction category, where edema arises from perturbed barrier signaling rather than proven
 contact-system hyperactivity. Consequently, a primary pathway for excess bradykinin production has not been established.<sup>10,14,25</sup> Reviews therefore treat DAB2IP similarly to ANGPT1/MYOF – endothelial dysregulation with possible secondary effects on kinin signaling – rather than a direct driver of bradykinin overgeneration.<sup>10,14,25</sup>
 
-### 6.3 Bradykinin Dysregulation in Angioedema Syndromes
+## 6.3 Bradykinin Dysregulation in Angioedema Syndromes
 **Bradykinin overproduction or impaired degradation underlies several angioedema disorders characterized by episodic, non-urticarial subcutaneous and submucosal oedema** (Figure 21 above and Figure 22).<sup>2</sup> A high-level summary follows; the pathophysiology, clinical, diagnostic, and **therapeutic details for each subtype is presented in Module 2.**
 Bradykinin is instrumental to the development of AE-BK, a disease characterized by **episodic, life-threatening tissue swelling due to dysregulated bradykinin formation**, especially when C1 inhibitor (C1INH) is deficient or dysfunctional [see Module 2 Section 1]. This is because, unlike histaminergic forms of angioedema, **AE-BK-associated swelling is bradykinin-mediated** and **does not respond** to antihistamines or corticosteroids. This necessitates **targeted therapies**, such as C1INH replacement, pKal inhibitors, FXII inhibitors, and bradykinin B2 receptor antagonists.<sup>26-28</sup>
 
@@ -866,7 +866,7 @@ Note: Angioedema types are named according to the DANCE (Definition, acronyms, n
 AAE-C1INH, acquired angioedema due to C1 inhibitor deficiency; AE-ACEi, angioedema due to angiotensin-converting enzyme inhibitors; AE-ANA, angioedema due to anaphylaxis; AE-BK, bradykinin-mediated angioedema; AE-DI, drug-induced angioedema; AE-DPPIV, AE due to dipeptidyl peptidase IV blockers; AE-MC, mast cell–mediated angioedema; AENSAID, angioedema due to nonsteroidal anti-inflammatory drugs; AE-tPA, angioedema due to tissue-type plasminogen activators; A E-UNK, angioedema due to unknown cause; AE-URT, angioedema with urticaria; AE-VE, angioedema due to vascular endothelium dysfunction; BK, bradykinin; C1INH, C1 inhibitor; EAE, episodic angioedema with eosinophilia; FXII, gene encoding factor XII; FXII(a), Factor XII(a); HAE, hereditary angioedema; HAE-ANGPT, hereditary angioedema due to angiopoietin 1 mutation; HAE-DAB2IP, hereditary angioedema due to disabled homolog 2–interacting protein; HAE-FXII, hereditary angioedema due to factor XII mutation; HAE-HSST, hereditary angioedema due to heparan sulfate glucosamine 3-O-sulfotransferase 6 mutation; HAE-KNG, hereditary angioedema due to kininogen 1 mutation; HAE-MYOF, hereditary angioedema due to myoferlin mutation; HAEPLG, hereditary angioedema due to plasminogen mutation; HAE-UNK, hereditary angioedema due to unknown mutation; KKS, kallikrein-kinin system; SCLS, systemic capillary leak
 syndrome.
 
-### Summary
+## Summary
 - **Overview:** Bradykinin dysregulation underlies several acute and chronic disease phenotypes by amplifying vascular permeability, altering microvascular tone, and sensitizing nociceptive and immune pathways via the contact, complement, and
 kallikrein–kinin systems.<sup>1-3</sup>
 - The most definitive examples are bradykinin-mediated angioedemas (HAE, AAEC1INH).<sup>1-3</sup>
@@ -901,7 +901,7 @@ kallikrein–kinin systems.<sup>1-3</sup>
 - **Bradykinin Dysregulation in Angioedema Syndromes**
     - Bradykinin overproduction or impaired degradation underlies several angioedema disorders characterized by episodic, non-urticarial edema of cutaneous and mucosa.<sup>2</sup>
 
-### References
+## References
 1. Bekassy Z, Lopatko Fagerström I, Bader M, Karpman D. Crosstalk between the reninangiotensin, complement and kallikrein-kinin systems in inflammation. Nat Rev Immunol. 2022;22(7):411-428.
 2. Reshef A, Buttgereit T, Betschel SD, et al. Definition, acronyms, nomenclature, and classification of angioedema (DANCE): AAAAI, ACAAI, ACARE, and APAAACI DANCE consensus. J Allergy Clin Immunol. 2024;154(2):398-411.e1.
 3. Branquinho J, Neves RL, Bader M, Pesquero JB. Bradykinin Receptors in Metabolic Disorders: A Comprehensive Review. Drugs and Drug Candidates. 2025; 4(3):37.
