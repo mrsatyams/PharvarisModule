@@ -142,7 +142,7 @@ a {
       position: fixed;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
-        flex-direction: row;
+        flex-direction: column;
         padding: 0;
         width: initial;
         margin-top: 2rem;
@@ -152,16 +152,21 @@ a {
     & .sidebar.left {
       left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       @media all and (max-width: $fullPageWidth) {
-        gap: 0;
-        align-items: center;
+        gap: 20px;
+        align-items: stretch;
       }
     }
 
     & .sidebar.right {
       right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      @media all and (max-width: $fullPageWidth) {
+        gap: 0;
+        align-items: stretch;
+      }
       & > * {
         @media all and (max-width: $fullPageWidth) {
-          flex: 1;
+          flex: unset;
+          width: 100%;
         }
       }
     }

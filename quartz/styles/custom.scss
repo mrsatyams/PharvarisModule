@@ -13,32 +13,6 @@ body {
   font-style: normal;
 }
 
-/* HEADER AT TOP OF WEBSITE */
-.marquee {
-  background-color: black;
-  overflow: hidden;
-  width: 100%;
-  font-family: monospace;
-  white-space: nowrap;
-  height: 40px;
-}
-
-.marquee p {
-  color: white;
-  font-weight: 700;
-  animation: loopText 15s infinite linear;
-  line-height: unset;
-}
-
-@keyframes loopText {
-  from {
-    transform: translateX(0);
-  }
-
-  to {
-    transform: translateX(-25%);
-  }
-}
 
 /* HEADER AT TOP OF WEBSITE */
 .content-container {
